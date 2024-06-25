@@ -4,7 +4,7 @@ Proyecto de Zapateria, proyecto para una zapateria.
 # Instalación
 * Clonar repositorio en una carpeta en htdocs o www segun el servidor web
 * Instalar composer [https://getcomposer.org]
-* Instalar las dependencias en la misma carpeta donde esta composer.json php composer.phar install composer install
+* Instalar las dependencias en la misma carpeta donde esta composer.json <code>php composer.phar install</code> composer install
 * Copiar el archivo renameTo_parameters.env a parameters.env y actualizar los valores segun sus parámetros
 * En un navegar ir al proyecto con index.php?page=index
 * Para generar
